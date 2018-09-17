@@ -1,0 +1,45 @@
+#evrything {  
+background-color:yellow;
+}
+{
+#about {
+display: inline; /* the default for span */
+width: 100px;
+height: 100px;
+padding: 5px;
+border: 1px solid blue; 
+background-color: yellow; 
+}
+
+.about{
+display: inline-block;
+width: 100px;
+height: 100px;
+padding: 5px;
+border: 1px solid blue; 
+background-color: yellow; 
+}
+.carousel-inner {
+display: block;
+width: 100px;
+height: 100px;
+padding: 5px;
+border: 1px solid blue; 
+background-color: yellow; 
+} 
+.container {
+background-color: light-black; 
+list-style-type: none;
+text-align: center; 
+padding: 0;
+margin: 0;
+}
+.col-sm-6  {
+float: left;
+width: 50%%; /* three containers (use 50% for each of the images */
+padding: 25px; /* if you want space between the images */
+} 
+#services { 
+background-color: red;
+display: inline-block;
+}
